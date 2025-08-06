@@ -1,0 +1,8 @@
+date
+lgr_time
+co2_dry
+co2_dry
+ch4_dry
+h2o
+n2o_ppb
+5
